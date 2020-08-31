@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "LinkedIn">
+<test name = "LinkedIn">
+<classes>
+<!-- 	<class name = "test.Login.Login"/> -->
+<!-- 	<class name = ""/> -->
+<!-- 	<class name = ""/> -->
+<!-- 	<class name = ""/> -->
+</classes>
+</test>
+</suite>
